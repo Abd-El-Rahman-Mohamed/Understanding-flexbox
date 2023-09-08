@@ -22,3 +22,10 @@
     /* align-items */
     align-items: flex-end;
 }
+
+.box3 {
+    background-color: blanchedalmond;
+
+    /* align-self */
+    align-self: center;
+}
