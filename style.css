@@ -21,6 +21,9 @@
 
     /* align-items */
     align-items: flex-end;
+
+    /* gap */
+    gap:10px;
 }
 
 .box3 {
