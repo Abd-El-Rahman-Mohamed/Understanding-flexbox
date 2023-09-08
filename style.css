@@ -9,21 +9,21 @@
 /* display: flex; */
 .flex-container {
     display: flex;
-    
+
     /*justify-content*/
     justify-content: center;
-    
+
     /* flex-wrap */
     flex-wrap: wrap;
-
-    /* flex-direction */
-    flex-direction: column;
 
     /* align-items */
     align-items: flex-end;
 
     /* gap */
-    gap:10px;
+    gap: 10px;
+
+    /* flex */
+    flex: 0 1 auto;
 }
 
 .box3 {
@@ -31,4 +31,7 @@
 
     /* align-self */
     align-self: center;
+
+    /* flex */
+    flex: 1 1 auto;
 }
