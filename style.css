@@ -18,4 +18,7 @@
 
     /* flex-direction */
     flex-direction: column;
+
+    /* align-items */
+    align-items: flex-end;
 }
